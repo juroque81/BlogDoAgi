@@ -13,8 +13,11 @@ Instalar os seguintes sistemas
 ## Objetivo
 
 Acessar o blog do Agi
+
 Localizar a pesquisa
+
 Realizar uma pesquisa por Empréstimo
+
 Verificar o retorno da pesquisa:
     Para pesquisa por Empréstimo
     Para pesquisa por Emprestimo
