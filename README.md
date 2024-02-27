@@ -19,6 +19,9 @@ Localizar a pesquisa
 Realizar uma pesquisa por Empréstimo
 
 Verificar o retorno da pesquisa:
+    
     Para pesquisa por Empréstimo
+    
     Para pesquisa por Emprestimo
+
 Se o retorno for diferente o teste deve falhar
